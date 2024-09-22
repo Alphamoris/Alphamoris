@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alphamoris
+- 👋 Hi, I’m Dhanush @Alphamoris
 - 👀 I’m interested in creating immense firstclass professional websites
 - 🐾 I use mainly next js with typescript on the frontend and django , fast api , django rest framework for the backend
 - ♟️ Mainly looking for hackathons to deliberately deliver my skills
-- 🌱 I’m currently learning about web3
+- 🌱 I’m currently learning about web3 and creation of DeFi apps
 - 💞️ I’m looking to collaborate on with developers with similar interests
 - 📫 How to reach me alpahmoris45@gamil.com
