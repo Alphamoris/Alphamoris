@@ -73,10 +73,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Alphamoris&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </div>
 
-<!-- Streak Stats -->
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=Alphamoris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 <!-- Skill Progressbars -->
 <h2 align="center">⚡ Core Skills ⚡</h2>
