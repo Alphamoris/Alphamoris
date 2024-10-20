@@ -21,13 +21,18 @@
         <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/>
     </h2>
 </div>
+
 <!-- SECTION: Animated Tech Icons Matrix -->
 <div align="center">
     <table>
         <tr>
             <td align="center" width="144" height="144">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-                <br>React + Next.js
+                <br>React
+            </td>
+            <td align="center" width="144" height="144">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="icon" width="65" height="65" />
+                <br>Next.js
             </td>
             <td align="center" width="144" height="144">
                 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -40,12 +45,16 @@
         </tr>
         <tr>
             <td align="center" width="144" height="144">
-                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-                <br>Python
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="65" height="65" />
+                <br>PostgreSQL
             </td>
             <td align="center" width="144" height="144">
                 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
                 <br>Django
+            </td>
+            <td align="center" width="144" height="144">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="icon" width="65" height="65" />
+                <br>FastAPI
             </td>
             <td align="center" width="144" height="144">
                 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -55,7 +64,6 @@
     </table>
 </div>
 
-
 <div align="center">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alphamoris&custom_title=Contribution%20Heatmap&hide_border=true&color=00FF00&line=FF0000&point=FFFFFF&area=true&area_color=FFFFFF&gradient=true&bg_color=000000" />
 </div>
@@ -64,15 +72,14 @@
     <h2><img width="30" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git"/>&nbsp;GitHub Analytics&nbsp;<img width="30" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git"/></h2>
 
 <div align="center">
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Alphamoris&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alphamoris&theme=radical&border_radius=10" alt="streak stats"/>
+    <img width="49%" height="195px" src="https://github-readme-stats-salesp07.vercel.app/api?username=Alphamoris&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="49%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alphamoris&theme=radical&border_radius=10" alt="streak stats"/>
 </div>
 
 <!-- SECTION: Trophy Case -->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Alphamoris&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </div>
-
 
 <!-- Skill Progressbars -->
 <h2 align="center">⚡ Core Skills ⚡</h2>
@@ -84,7 +91,6 @@ FastAPI       ███████████████████░░░
 Django        ██████████████████░░░░   80%
 Web3/DeFi     ████████████░░░░░░░░░░   60%
 ```
-
 
 <!-- Interactive Contact Section -->
 <h2 align="center">
