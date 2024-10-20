@@ -99,7 +99,7 @@ Web3/DeFi     ████████████░░░░░░░░░░
     <a href="mailto:alpahmoris45@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail"/>
     </a>
-    <a href="[https://linkedin.com/in/alphamoris](https://www.linkedin.com/in/alphamoris-45-11111111111111111111)">
+    <a href="https://www.linkedin.com/in/alphamoris-45-11111111111111111111">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/alphamoris">
